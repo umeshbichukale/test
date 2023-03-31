@@ -1,5 +1,0 @@
-package interview;
-
- class Student {
-
-}
